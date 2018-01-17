@@ -4,6 +4,7 @@ Changes also licensed unde the MIT license.
 # The MIT License (MIT)
 
 (Forked) Copyright (c) 2017- Daniel Jewell
+
 (Original Author) Copyright (c) 2017 Nathachai Thongniran <inid3a@gmail.com>
 
 > Permission is hereby granted, free of charge, to any person obtaining a copy
