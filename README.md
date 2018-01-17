@@ -1,5 +1,10 @@
 # leo-profanity-php
 
+
+## Original Pre-fork Release
+
+Original Source: https://github.com/jojoee/leo-profanity-php
+
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Software License][ico-license]](LICENSE.md)
 [![Build Status][ico-travis]][link-travis]
